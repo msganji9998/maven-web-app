@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Diya Ganji- Software Training Institute Bengaluru <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://ashokitech.com/online-training-schedules">Click Here To See Diya Ganji IT Training Schedules</a>
   
-  <h2> Call Us : + 9985396677</h2>
+  <h2> Call Us : + 0123456789</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Vasanthnagar, Bengaluru-560052 </h3>
 
 </body>
 </html>
