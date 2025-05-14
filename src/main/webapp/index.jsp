@@ -4,7 +4,7 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Diya Ganji IT Training Schedules</a>
   
-  <h2> Call Us : + 0123456789</h2>
+  <h2> Call Us : + 08472-244134</h2>
   
   <h3> Ofc Location : Vasanthnagar, Bengaluru-560052 </h3>
 
